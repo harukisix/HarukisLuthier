@@ -24,3 +24,10 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 
 ![xamp](https://github.com/harukisix/HarukisLuthier/assets/104094544/05a6e7eb-54b7-49e3-902b-3f08b341c084)
 
+• Clica na opção de Admin dentro do XAMPP;
+
+• Após clicar na opção de Admin, você será redirecionado para esse site e ai sim poderá criar seu Banco de Dados;
+
+![xamp2](https://github.com/harukisix/HarukisLuthier/assets/104094544/71ac1daa-8f4e-4558-8fd6-13d29910cdc3)
+
+
