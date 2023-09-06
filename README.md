@@ -17,8 +17,7 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 É necessário ter instalado no computador:
 • Java JDK 8; • XAMPP.
 
-#Instalação
-
+# Instalação:
 • Inicie o XAMPP;
 
 • Dê Start no "Apache" e no "MySQL";
