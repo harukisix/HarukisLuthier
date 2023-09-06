@@ -18,6 +18,9 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 • Java JDK 8; • XAMPP.
 
 #Instalação
+
 • Inicie o XAMPP;
+
 • Dê Start no "Apache" e no "MySQL";
+
 ![xamp](https://github.com/harukisix/HarukisLuthier/assets/104094544/18df151b-36a2-4391-ba7b-acb17bece314)
