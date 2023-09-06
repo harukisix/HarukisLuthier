@@ -22,4 +22,5 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 
 • Dê Start no "Apache" e no "MySQL";
 
-![xamp](https://github.com/harukisix/HarukisLuthier/assets/104094544/18df151b-36a2-4391-ba7b-acb17bece314)
+![xamp](https://github.com/harukisix/HarukisLuthier/assets/104094544/05a6e7eb-54b7-49e3-902b-3f08b341c084)
+
